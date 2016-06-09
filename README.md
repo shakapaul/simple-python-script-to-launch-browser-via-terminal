@@ -1,0 +1,1 @@
+# simple-python-script-to-launch-browser-via-terminal
